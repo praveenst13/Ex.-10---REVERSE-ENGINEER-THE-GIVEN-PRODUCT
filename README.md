@@ -34,6 +34,7 @@
 ![imng](game-of-thrones-got-house-stark-winter-is-coming-dire-wolf-head-original-imaeydszs6hfzusz.webp)
 
 ### Output:
+![Screenshot 2023-06-14 110815](https://github.com/praveenst13/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/118787793/fcec1a67-6753-4f78-a99d-5d91476fb6f0)
 
 
 ### Name:Praveen s
