@@ -31,7 +31,7 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-
+![imng](game-of-thrones-got-house-stark-winter-is-coming-dire-wolf-head-original-imaeydszs6hfzusz.webp)
 
 ### Output:
 
